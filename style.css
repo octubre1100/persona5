@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Zilla+Slab&display=swap');
+
+#arcana1,
+#arcana2,
+#arcana3,
+#arcana4,
+#arcana5,
+#arcana6,
+#arcana7,
+#arcana8,
+#arcana9,
+#arcana10,
+#arcana11,
+#arcana12,
+#arcana13,
+#arcana14,
+#arcana15,
+#arcana16,
+#arcana17,
+#arcana18,
+#arcana19,
+#arcana20,
+#arcana21,
+#arcana22,
+#arcana23 {
+    display: none;
+}
+
+body {
+    background-color: black;
+}
+
+.imgs {
+    height: fit-content;
+    margin-right: 0px;
+    width: fit-content;
+}
+
+.container-fluid {
+    justify-content: center;
+    margin: 0px;
+}
+
+.respuestas {
+    background-color: rgb(255, 255, 255);
+    font-family: 'Zilla Slab', serif;
+    font-size: 25px;
+    margin: 0px;
+    justify-content: center;
+    text-align: justify;
+}
+
+.introducción {
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+    font-family: 'Zilla Slab', serif;
+    font-size: 30px;
+    color: white;
+    margin: 0px;
+}
+
+.bt {
+    width: 100%;
+    font-family: 'Cinzel', serif;
+    font-size: 24px;
+    background-color: rgba(255, 0, 0, 0.473);
+    margin: 0px;
+}
+
+.nombres {
+    justify-content: center;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    margin: 0px;
+    font-family: 'Zilla Slab', serif;
+    text-shadow: -0px -0px 0px #575757, 0px 0px 0px #575757, -2px 2px 1px #575757, 2px -2px 1px #575757;
+}
+
+h1,
+h2 {
+    font-family: 'Cinzel', serif;
+    font-size: 54px;
+    background-color: rgb(0, 0, 0);
+    color: red;
+    margin: 0px;
+    text-shadow: -1px -1px 1px #ffffff, 1px 1px 1px #ffffff, -1px 1px 1px #ffffff, 1px -1px 1px #ffffff;
+}
+
+footer {
+    font-size: 35px;
+    background-color: rgb(0, 0, 0);
+    font-family: 'Cinzel', serif;
+}
